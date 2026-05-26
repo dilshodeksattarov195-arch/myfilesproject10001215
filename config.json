@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondync",
+        "uuid": 8110125,
+        "checksum": "mluu5n"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
